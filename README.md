@@ -1,3 +1,3 @@
 # KONSEP JARINGAN
 ## Tentang Projek
-Repository ini ditujukan untuk menyimpan tugas Konsep Jaringan.
+<a href ="assets/activity.svg"> Repository ini ditujukan untuk menyimpan tugas Konsep Jaringan.
