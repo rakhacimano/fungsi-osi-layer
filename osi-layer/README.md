@@ -1,9 +1,9 @@
 # FUNGSI OSI LAYER
 
-**Nama :** Rakha Putra Pratama </br>
-**Kelas :** 2 D4 IT A </br>
-**NRP :** 3122600005 </br>
-**Mata Kuliah :** Konsep Jaringan </br>
+**Nama \t:** Rakha Putra Pratama </br>
+**Kelas \t:** 2 D4 IT A </br>
+**NRP \t:** 3122600005 </br>
+**Mata Kuliah \t:** Konsep Jaringan </br>
 
 ##  1. Physical Layer
 <div align="center">
