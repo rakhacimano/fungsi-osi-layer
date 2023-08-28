@@ -6,10 +6,10 @@ Alasan mengapa FTP menggunakan TCP adalah karena TCP menyediakan koneksi berorie
 
 Namun, ada beberapa kasus di mana FTP dapat menggunakan UDP:
 
-## TFTP (Trivial File Transfer Protocol):
+### 1. TFTP (Trivial File Transfer Protocol):
 TFTP adalah protokol transfer file yang sederhana dan biasanya menggunakan UDP. Ini sering digunakan untuk mengunduh atau mengunggah file ke atau dari perangkat jaringan seperti router atau switch selama booting atau konfigurasi.
 
-## Mode Aktif FTP: 
+### 2. Mode Aktif FTP: 
 Mode aktif FTP dapat menggunakan koneksi UDP untuk mengirimkan data dari server ke klien. Dalam mode ini, server FTP menginisiasi koneksi data dengan klien. Namun, karena UDP adalah protokol tanpa koneksi dan tidak menjamin pengiriman data yang handal seperti TCP, implementasi ini jarang digunakan dan seringkali disesuaikan dengan kebutuhan khusus.
 
 Penting untuk dicatat bahwa penggunaan UDP dengan FTP tidak umum dan mungkin memerlukan konfigurasi atau pengaturan khusus. Dalam sebagian besar kasus, FTP menggunakan TCP untuk memastikan kehandalan transfer data. Jika Anda berencana menggunakan FTP atau protokol lain dalam jaringan, pastikan Anda memahami konfigurasi dan implikasi yang terkait dengan penggunaan protokol tersebut.
