@@ -6,4 +6,4 @@ Repository ini ditujukan untuk menyimpan tugas Konsep Jaringan.
     NRP		        : 3122600013
     Kelas		        : 2 D4 IT A
     Mata Kuliah	        : Konsep Jaringan
-    Dosen Pengampu	        : Dr. Ferry Astika Saputra ST, M.Sc
+    Dosen Pengampu	        : Dr. Ferry Astika Saputra S.T., M.Sc
