@@ -159,3 +159,10 @@ Berikut ini adalah cara untuk menemukan gambar yang ada di dalam file http_witp_
 <img src="assets/show-packet-byte-5.jpg">
 <p><strong>Gambar:</strong> 1.9 Frame 479</p>
 </div>
+
+## TUGAS 5 -> MELANJUTKAN PROSES DATA TRANSFER
+
+<div align="center">
+<img src="assets/lanjutan-data-transfer.jpg">
+<p><strong>Gambar:</strong> 2.0 Melanjutkan Proses Data Transfer</p>
+</div>
