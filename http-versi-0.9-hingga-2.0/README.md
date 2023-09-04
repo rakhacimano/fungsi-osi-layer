@@ -18,7 +18,7 @@
 ## TCP Keep-Alive dalam HTTP
 
 <div align="center">
-<img src="assets/http1_x_connections.png">
+<img src="assets/http1_x_connections.jpg">
 <p><strong>Gambar:</strong> Perbedaan TCP Session Versi HTTP.</p>
 </div>
 
