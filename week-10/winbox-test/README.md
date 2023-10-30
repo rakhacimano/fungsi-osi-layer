@@ -58,3 +58,9 @@ Winbox adalah sebuah aplikasi manajemen berbasis GUI (Graphical User Interface) 
 <p><strong>Gambar : </strong>Setting Properti Address 2</p>
 </div>
 
+#### 8. Percobaan PING ke Server 1
+<div align="center">
+<img src="./assets/ping.png">
+<p><strong>Gambar : </strong>Percobaan PING ke Server 1</p>
+</div>
+
