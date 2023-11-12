@@ -1,0 +1,72 @@
+1.1.1.1
+
+  1    <1 ms    <1 ms    <1 ms  192.168.4.1
+  2    <1 ms    <1 ms    <1 ms  10.252.108.212
+  3    <1 ms     1 ms    <1 ms  241.56.pens.ac.id [103.24.56.241]
+  4     2 ms    <1 ms     1 ms  core-router.pens.ac.id [202.9.85.1]
+  5     1 ms     1 ms     1 ms  edge-router.pens.ac.id [10.252.0.1]
+  6     2 ms     2 ms     2 ms  114-4-97-169.resources.indosat.com [114.4.97.169]
+  7    25 ms    23 ms    25 ms  114-0-78-196.resources.indosat.com [114.0.78.196]
+  8    24 ms    23 ms    23 ms  13335.sgw.equinix.com [27.111.228.132]
+  9    37 ms    25 ms    25 ms  162.158.39.3
+ 10    25 ms    25 ms    24 ms  one.one.one.one [1.1.1.1]
+
+1.1.1.1
+
+  1    <1 ms    <1 ms    <1 ms  192.168.4.1
+  2    <1 ms    <1 ms    <1 ms  10.252.108.212
+  3    <1 ms     *        *     241.56.pens.ac.id [103.24.56.241]
+  4     1 ms    <1 ms    <1 ms  core-router.pens.ac.id [202.9.85.1]
+  5     1 ms     1 ms     1 ms  edge-router.pens.ac.id [10.252.0.1]
+  6     8 ms     6 ms     3 ms  114-4-97-169.resources.indosat.com [114.4.97.169]
+  7    28 ms    26 ms    24 ms  114-0-78-196.resources.indosat.com [114.0.78.196]
+  8     *        *        *     Request timed out.
+  9    25 ms    25 ms    25 ms  162.158.39.3
+ 10    25 ms    24 ms    24 ms  one.one.one.one [1.1.1.1]
+
+1.1.1.1
+
+
+  1    <1 ms    <1 ms    <1 ms  192.168.4.1
+  2    <1 ms    <1 ms    <1 ms  10.252.108.212
+  3    <1 ms    <1 ms     *     241.56.pens.ac.id [103.24.56.241]
+  4     1 ms     1 ms     1 ms  core-router.pens.ac.id [202.9.85.1]
+  5     2 ms     1 ms     2 ms  edge-router.pens.ac.id [10.252.0.1]
+  6     2 ms     2 ms     2 ms  114-4-97-169.resources.indosat.com [114.4.97.169]
+  7    23 ms    23 ms    23 ms  114-0-78-196.resources.indosat.com [114.0.78.196]
+  8     *        *       24 ms  13335.sgw.equinix.com [27.111.228.132]
+  9    25 ms    24 ms    24 ms  162.158.39.3
+ 10    25 ms    25 ms    24 ms  one.one.one.one [1.1.1.1]
+
+
+detik.com
+  1    <1 ms    <1 ms    <1 ms  192.168.4.1
+  2    <1 ms    <1 ms    <1 ms  10.252.108.212
+  3     2 ms     7 ms     *     241.56.pens.ac.id [103.24.56.241]
+  4     1 ms     2 ms     1 ms  core-router.pens.ac.id [202.9.85.1]
+  5     1 ms     1 ms     1 ms  edge-router.pens.ac.id [10.252.0.1]
+  6    13 ms    14 ms    13 ms  124-195-38-7.resources.indosat.com [124.195.38.7]
+  7    16 ms    18 ms    14 ms  123.108.8.172
+  8    14 ms    14 ms    14 ms  s211-cast-211-221-49-103.detik.com [103.49.221.211]
+
+detik.com
+
+  1    <1 ms    <1 ms    <1 ms  192.168.4.1
+  2    <1 ms    <1 ms    <1 ms  10.252.108.212
+  3    <1 ms    <1 ms    <1 ms  241.56.pens.ac.id [103.24.56.241]
+  4     1 ms    <1 ms    <1 ms  core-router.pens.ac.id [202.9.85.1]
+  5     2 ms     1 ms     1 ms  edge-router.pens.ac.id [10.252.0.1]
+  6    14 ms    14 ms    13 ms  124-195-38-7.resources.indosat.com [124.195.38.7]
+  7    15 ms    17 ms    14 ms  123.108.8.172
+  8    13 ms    14 ms    14 ms  s211-cast-211-221-49-103.detik.com [103.49.221.211]
+
+detik.com
+
+  1    <1 ms    <1 ms    <1 ms  192.168.4.1
+  2    <1 ms    <1 ms    <1 ms  10.252.108.212
+  3    <1 ms    <1 ms    <1 ms  241.56.pens.ac.id [103.24.56.241]
+  4     1 ms    <1 ms     1 ms  core-router.pens.ac.id [202.9.85.1]
+  5     1 ms     2 ms     1 ms  edge-router.pens.ac.id [10.252.0.1]
+  6    13 ms    14 ms    14 ms  124-195-38-7.resources.indosat.com [124.195.38.7]
+  7    16 ms    16 ms    17 ms  123.108.8.172
+  8    13 ms    13 ms    13 ms  s211-cast-211-221-49-103.detik.com [103.49.221.211]
