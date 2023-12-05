@@ -10,6 +10,11 @@
 <img src="./assets/dns.gif">
 </div>
 
+<div align="center">
+<img src="./assets/dns.gif">
+<p><strong>Gambar :</strong> DNS</p>
+</div>
+
 ##
 
 DNS (Domain Name System) dan Email Server merupakan dua komponen penting dalam infrastruktur internet yang bekerja secara terpisah tetapi saling terkait.
